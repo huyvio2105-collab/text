@@ -1,0 +1,17 @@
+# 1. Rác của Windows
+Thumbs.db
+Desktop.ini
+
+# 2. Cấu hình máy cá nhân (VS Code / WebStorm)
+.vscode/
+.idea/
+
+# 3. Thư viện siêu nặng (Nếu dùng Node.js)
+node_modules/
+
+# 4. File chứa mật khẩu, API Key (Bảo mật sống còn)
+.env
+
+# 5. Thư mục code đã build/nén
+dist/
+build/
